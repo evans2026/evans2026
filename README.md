@@ -15,11 +15,3 @@ I work on on portfolio tracking, valuation models, and commission frameworks. Of
 ## Stack
 
 Python · SQL · MicroPython · Flask · React · PostgreSQL · SQLite · Docker · MQTT · Plotly Dash · Pandas · NumPy · Git
-
-## Background
-
-B.S. Management (Finance + Accounting) — Boston College, Carroll School of Management
-
-## Contact
-
-sahinovicevan@gmail.com
