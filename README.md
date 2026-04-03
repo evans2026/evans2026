@@ -1,8 +1,8 @@
 # Evan Sahinovic
 
-Financial analyst who builds things. 3+ years across asset management, specialty insurance, and private wealth — currently at a single family office in Greenwich, CT.
+Financial analyst who builds things. 3+ years across asset management, specialty insurance, and private wealth.
 
-I spend my working hours on portfolio tracking, valuation models, and commission frameworks. Off the clock I build data systems from scratch: sensor pipelines, embedded firmware, anomaly detection engines, live dashboards. I like understanding how things work end to end — from the hardware up.
+I work on on portfolio tracking, valuation models, and commission frameworks. Off the clock I build data systems from scratch: sensor pipelines, embedded firmware, anomaly detection engines, live dashboards. I like understanding how things work end to end — from the hardware up.
 
 ## What's here
 
